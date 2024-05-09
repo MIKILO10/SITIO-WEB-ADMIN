@@ -2578,7 +2578,7 @@ form .inputs-description {
   left: 0;
   width: 100%;
   min-width: 360px;
-  height: 60px;
+  height: 114px;
   background-image: radial-gradient(
     circle farthest-corner at 7.2% 13.6%,
     rgba(37, 249, 245, 1) 0%,
@@ -2611,7 +2611,8 @@ form .inputs-description {
 
 .header__logo {
   position: relative;
-  padding: 0 2.4rem;
+  padding: 2.3rem;
+  margin: 20px;
 }
 .header__logo img {
   display: block;
